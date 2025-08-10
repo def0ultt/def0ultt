@@ -22,6 +22,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/default/default/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/default/default/output/pacman-contribution-graph.svg">
-  <img alt="def0ult" src="https://github.com/user-attachments/assets/2e09f54a-6b85-4384-899d-9e1db9361204">
+  ![Image](https://github.com/user-attachments/assets/2e09f54a-6b85-4384-899d-9e1db9361204)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/default/default/output/pacman-contribution-graph.svg">
 </picture>
