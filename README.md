@@ -29,8 +29,6 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/3625c86f5cb71b0fe414ff3db5e7b32372f66495bbdd9b4f1d766308e8fb77f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d65746173706c6f69742d3030384338433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d65746173706c6f697426636f6c6f723d303030303030" height="140" alt="metasploit logo"  />
-  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/50994705?s=48&v=4" height="140" alt="projectdiscovery tools "  />
 </div>
 
